@@ -19,7 +19,7 @@
   },
   "main": "./lib/mailcomposer",
   "dependencies": {
-    "buildmail": "3.7.0",
+    "buildmail": "git+ssh://git@github.com/glg/buildmail",
     "libmime": "2.0.3"
   },
   "devDependencies": {
